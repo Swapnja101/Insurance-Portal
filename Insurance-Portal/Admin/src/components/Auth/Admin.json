@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "swapnja",
+    "lastname": "khopade",
+    "username": "swapnja",
+    "password": "123",
+    "email": "swapnjakhopade@example.com",
+    "age": 22,
+    "gender": "Female",
+    "DOB": "2001-06-19",
+    "phonenumber": "+919370791583",
+    "address": "pune, Maharashtra, India",
+    "role": "admin",
+    "active": true
+  }
+]
